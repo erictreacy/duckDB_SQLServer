@@ -1,4 +1,4 @@
-# SQL Server to MotherDuck Sync (Proof of Concept)
+# SQL Server to MotherDuck Sync
 
 This repo demonstrates how to:
 - Connect to Microsoft SQL Server using `pyodbc`
